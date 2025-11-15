@@ -1,4 +1,4 @@
-# TP 15 : Service GraphQL avec Spring Boot par: Rim EL ABBASSI
+# TP 15 : Service GraphQL_Spring Boot par: Rim EL ABBASSI
 
 ## Objectif
 Ce TP vise à implémenter un service GraphQL pour la gestion de comptes et de transactions bancaires en utilisant **Spring Boot**. L'application permet de créer, consulter et analyser les comptes et transactions via des requêtes et mutations GraphQL.
